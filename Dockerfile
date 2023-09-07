@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-ENV TER_VER=1.2.8
+ENV TER_VER=1.5.6
 ENV GO_VER=21.0
 
 WORKDIR /tmp
